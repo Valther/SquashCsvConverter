@@ -1,3 +1,3 @@
 # SquashCsvConverter
 
-This application allows to transform SQuashTM CSV reports to Excel files.
+This application allows to transform SQuashTM's CSV test case reports to Excel files with images.
